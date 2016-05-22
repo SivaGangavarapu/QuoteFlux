@@ -1,1 +1,5 @@
-
+Users of the app can create quote "walls" and invite FB friends that also use the app
+    Each wall will contain a list of quotes
+    Each quote contains - who said, who posted it, data, maybe others?
+    When quote is added to wall, user has option to share it on fb 
+    
