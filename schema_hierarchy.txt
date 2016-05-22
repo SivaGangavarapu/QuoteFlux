@@ -1,0 +1,12 @@
+
+|- user
+  |- username
+  |- name
+  |- ...
+|- wall
+  |- people users[]
+  |- name
+  |- quote
+    |- content
+    |- author
+    |- people users[]
